@@ -9,7 +9,6 @@
 
 ![s_esp32](https://github.com/NoppalitP/sensordata2database/assets/155846151/0fb5ac61-da83-4615-8bb1-235f2bb84630)
 
-![5b3c8f349357a48ff2188196](https://github.com/NoppalitP/sensordata2database/assets/155846151/e9e04770-38cb-4b26-9cee-2d793351faca)
 
 
 ![python](https://github.com/NoppalitP/sensordata2database/assets/155846151/eb208313-48ba-4062-bae4-35dd886f8352)
