@@ -23,6 +23,11 @@ ESP32 microcontroller gathers data from a sensor and a web service, processes it
 - integration with a Google Sheet
 - Appending Data to the Google Sheet
 
+### 4. Python Program that does
+
+- Connects to a Google Sheets document
+- Retrieves all records from the selected worksheet
+- Inserts the transformed data into the "bme680_data" table in the MySQL database
 
 ## Flowchart
 
