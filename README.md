@@ -12,11 +12,11 @@ ESP32 microcontroller gathers data from a sensor and a web service, processes it
 - The BME680 sensor measures environmental parameters like temperature, humidity, and pressure.
 - This sensor data is sent back to the ESP32
 
-### 2.Making a request
+### 2.ESP 32 Making a request
 
--The ESP32 microcontroller starts by making an HTTP GET request to the Google Sheet.
+- The ESP32 microcontroller starts by making an HTTP GET request to the Google Sheet.
 
--This request retrieves data from the sheet, potentially containing instructions or configuration settings for the project.
+- This request retrieves data from the sheet, potentially containing instructions or configuration settings for the project.
 
 
 ## Flowchart
