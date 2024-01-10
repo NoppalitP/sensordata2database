@@ -39,7 +39,7 @@ ESP32 microcontroller gathers data from a sensor and a web service, processes it
 
 ### Sensor BME680
 
-BME680
+- BME680
 Gas sensor measuring relative humidity, barometric pressure, ambient temperature and gas (VOC).
 
 ![sensor](https://store.fut-electronics.com/cdn/shop/files/BME680-enviromental-sensor_500x500.jpg)
