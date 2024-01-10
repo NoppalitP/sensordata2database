@@ -8,11 +8,11 @@ ESP32 microcontroller gathers data from a sensor and a web service, processes it
 
 1.Sensor Data Acquisition:
 
-  -The ESP32 then communicates with the BME680 sensor through the I2C protocol.
+    -The ESP32 then communicates with the BME680 sensor through the I2C protocol.
   
-  -The BME680 sensor measures environmental parameters like temperature, humidity, and pressure.
+    -The BME680 sensor measures environmental parameters like temperature, humidity, and pressure.
   
-  -This sensor data is sent back to the ESP32
+    -This sensor data is sent back to the ESP32
 
 
 
