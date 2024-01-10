@@ -29,6 +29,7 @@ ESP32 microcontroller gathers data from a sensor and a web service, processes it
 - Retrieves all records from the selected worksheet
 - Inserts the transformed data into the "bme680_data" table in the MySQL database
 
+
 ## Flowchart
 
 ![line](https://github.com/NoppalitP/sensordata2database/assets/155846151/7ebcc553-f0e7-4574-9819-d8af8070f6a7)
