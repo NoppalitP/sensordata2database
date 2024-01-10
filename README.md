@@ -58,7 +58,26 @@ Gas sensor measuring relative humidity, barometric pressure, ambient temperature
 
 ## Sensor data obtained from bme680 sensor Send to google sheet
 
-Temperature,Humidity,Pressure,Gas,Pressure altitude
+### Temperature,Humidity,Pressure,Gas,Pressure altitude
 
 ![data](https://github.com/NoppalitP/sensordata2database/assets/155846151/1b1995b5-bacf-437e-a7be-5f16c1b9503f)
+
+## Picture of circuit
+
+### BME680
+
+![BME680_r](https://github.com/NoppalitP/sensordata2database/assets/155846151/7609209e-18fc-4ef8-a6ea-80504a40cb9a)
+
+### ESP32
+
+![ESP32_r](https://github.com/NoppalitP/sensordata2database/assets/155846151/34e8dce5-8b79-4b11-a868-794bfc5745bb)
+
+### 2.42 INCH OLED I2C Display Module
+
+![Monitor](https://github.com/NoppalitP/sensordata2database/assets/155846151/92c0d473-31c1-4bac-bfcd-ff4c33cf5def)
+
+### Whole circuit
+
+![Whole](https://github.com/NoppalitP/sensordata2database/assets/155846151/04d66c0b-e711-4847-bfff-f1928712b743)
+
 
