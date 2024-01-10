@@ -1,4 +1,10 @@
-# Getting senosor and insert to database
+# Getting sensor data and insert to database
+
+## Intro
+
+ESP32 microcontroller gathers data from a sensor and a web service, processes it, and stores it in a database. 
+
+## The process
 ![line](https://github.com/NoppalitP/sensordata2database/assets/155846151/7ebcc553-f0e7-4574-9819-d8af8070f6a7)
 
 ![sensor](https://store.fut-electronics.com/cdn/shop/files/BME680-enviromental-sensor_500x500.jpg)
