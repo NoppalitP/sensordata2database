@@ -6,16 +6,21 @@ ESP32 microcontroller gathers data from a sensor and a web service, processes it
 
 ## The process
 
-### 1.Sensor Data Acquisition:
+### 1. Sensor Data Acquisition:
 
 - The ESP32 then communicates with the BME680 sensor through the I2C protocol.
 - The BME680 sensor measures environmental parameters like temperature, humidity, and pressure.
 - This sensor data is sent back to the ESP32
 
-### 2.ESP 32 Making a request
+### 2. ESP 32 Making a request
 
 - The ESP32 microcontroller starts by making an HTTP GET request to the Google Sheet.
 - This request retrieves data from the sheet, potentially containing instructions or configuration settings for the project.
+
+## 3. Google App Script working process
+- handle an HTTP GET request with parameters related to sensor
+- integration with a Google Sheet
+- Appending Data to the Google Sheet
 
 
 ## Flowchart
