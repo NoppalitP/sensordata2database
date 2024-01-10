@@ -62,6 +62,15 @@ Gas sensor measuring relative humidity, barometric pressure, ambient temperature
 
 ![data](https://github.com/NoppalitP/sensordata2database/assets/155846151/1b1995b5-bacf-437e-a7be-5f16c1b9503f)
 
+## Google App Script
+
+### Google Apps Script written in JavaScript
+
+### Code
+
+![code](https://github.com/NoppalitP/sensordata2database/assets/155846151/35c563c8-2033-4f98-9062-65d49af1e979)
+
+
 ## Picture of circuit
 
 ### BME680
